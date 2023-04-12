@@ -1,4 +1,6 @@
 ### Hi there 👋I am Yash Gupta
+![image-read](https://user-images.githubusercontent.com/119420347/231440734-6e93ce54-b546-4022-9ccd-d232d00e82ce.jpg)
+
 
 <!--
 **yash-levi1896/yash-levi1896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
