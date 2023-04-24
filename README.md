@@ -1,6 +1,4 @@
 ### Hi there 👋I am Yash Gupta
-[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8oX81SG7W_6revJnb38_sNZ7B2JE2BL3oUxdNXJBwzQ&usqp=CAU&ec=48665698
-](https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966)
 
 <!--
 **yash-levi1896/yash-levi1896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,12 +6,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning backend development
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+                                       🌱 I’m currently learning MERN Stack, SQL, System Desgin.
+
+                                               👨‍💻Checkout my portfolio [here](https://yash-levi1896.github.io/) 
+  
+                                       💬 Ask me about Node.js Express.js Mongo db and Front-end development.
+
+                                                📫 How to reach me:yashkumar18gupta@gmail.com
+- 😄 checkout my resume [here]([https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1T89GO9-k_otAy8nOX6qP9TypbJx2fTTF/view?usp=sharing))
 - ⚡ Fun fact: ...
 -->
