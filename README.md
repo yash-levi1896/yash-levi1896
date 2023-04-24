@@ -1,5 +1,5 @@
 ### Hi there 👋I am Yash Gupta
-![image-read](https://user-images.githubusercontent.com/119420347/231440734-6e93ce54-b546-4022-9ccd-d232d00e82ce.jpg)
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8oX81SG7W_6revJnb38_sNZ7B2JE2BL3oUxdNXJBwzQ&usqp=CAU&ec=48665698
 
 
 <!--
