@@ -83,7 +83,7 @@
   </div>
  
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-levi1896&theme=dark" alt="BinodOkheda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-levi1896&theme=dark" alt="yashgupta" /></p>
   </div>
 </div>
   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
