@@ -84,8 +84,8 @@
  
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-levi1896&theme=dark" alt="yashgupta" /></p>
- ![](https://github-profile-trophy.vercel.app/?username=yash-levi1896&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+ <img src="https://github-profile-trophy.vercel.app/?username=yash-levi1896&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4"/>
   </div>
-</div>
+    </div>
   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
